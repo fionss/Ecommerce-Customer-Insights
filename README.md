@@ -1,1 +1,1 @@
-# Ecommerce-Customer-Insights
+# Ecommerce and Customer-Insights
