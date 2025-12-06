@@ -12,3 +12,11 @@
   <li>Sales Channel</li>
   <li>Country</li>
 </ul>
+
+<p>Using Excel for data cleaning and Power BI for advanced modelling and visualization, this project uncovers insights across: </p>
+<ul>
+  <li>Channel performance</li>
+  <li>Customer purchasing behaviour</li>
+  <li>Geograhic revenue distribution</li>
+  <li>Product and category performance</li>
+</ul>
