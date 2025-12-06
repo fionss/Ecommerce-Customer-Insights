@@ -3,7 +3,7 @@
 
 <h2>1. Background and Overview</h2>
 <p>This project analyzes the sales perfomance for a global e-commerce company that was established in November 2023. The business sells consumer products on both web and mobile applications, reaching customers across multiple countries.</p>
-<br>
+
 <p>The dataset contains transactional-level sales data where each row represents a unique order. Some key fields include: </p>
 <ul>
   <li>Invoice Date</li>
