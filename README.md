@@ -21,3 +21,13 @@
   <li>Geograhic revenue distribution</li>
   <li>Product and category performance</li>
 </ul>
+
+<h2>2. Data Structure and Overview</h2>
+<h3>Data Preparation - Excel</h3>
+<h4>Data Cleaning and Validation</h4>
+<ul>
+  <li>Removed duplicates(119 duplicates were found) especially across invoice and product records to ensure data intergrity.</li>
+  <li>Filtered for blanks and missing values.</li>
+  <li>Identified and corrected data errors, like the inconsistent product descriptions and misaligned channel names</li>
+  <li></li>
+</ul>
