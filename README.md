@@ -48,10 +48,18 @@
     <li>Total Revenue</li>
     <li>Total Orders</li>
     <li>Total Quantity</li>
+    <li>Total Customers</li>
+    <li>Average Order Value</li>
+    <li>Average Revenue per Customer</li>
+    <li>YoY Growth</li>
+    <li>MoM Growth</li>
+    <li>Customer Retention Rate</li>
+    <li>New Customers</li>
+    <li>Returning Customers</li>
   </ul>
 </ul>
 
+<h2>3. Executive Summary</h2>
+<p>Revenue has shown consistent month-over-month growth since the company launched even though it's a slight increase, it's still a positive that shows a strong need for improvement as companies in the early stage aim for at least 10% . The customer retention rate is 0, showing that there are no return customers and all the sales made were by first time customers. This shows that every single customer was lost from the time the company was launched, this shows that there may be isues with the product, overall customer serviceand there is need for immediate and drastic measures to be taken to prevent an end to the business. It shows no loyalty from the customers and a major failure in the customer journey, support, product quality or market fit </p>
 
-
-
-
+<h2>4. Insights</h2>
