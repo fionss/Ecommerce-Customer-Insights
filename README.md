@@ -29,5 +29,5 @@
   <li>Removed duplicates(119 duplicates were found) especially across invoice and product records to ensure data intergrity.</li>
   <li>Filtered for blanks and missing values.</li>
   <li>Identified and corrected data errors, like the inconsistent product descriptions and misaligned channel names</li>
-  <li></li>
+  <li>Corrected data entry erro</li>
 </ul>
