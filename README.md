@@ -29,5 +29,29 @@
   <li>Removed duplicates(119 duplicates were found) especially across invoice and product records to ensure data intergrity.</li>
   <li>Filtered for blanks and missing values.</li>
   <li>Identified and corrected data errors, like the inconsistent product descriptions and misaligned channel names</li>
-  <li>Corrected data entry erro</li>
+  <li>Corrected data entry errors, like the inconsistent product and incorrect channel names.</li>
+  <li>Verified </li>
 </ul>
+
+<h3>Data Model and Structure - Power BI</h3>
+<p>After data cleaning in Excel, the dataset was modeled in Power BI using a star schema for better performance and optimized analytics. This is an image of the star schema : </p>
+
+
+
+
+<h4>Data Model Features</h4>
+<ul>
+  <li>Active relationship between FactSales and dimension tables.</li>
+  <li>Time intelligence made through DimDate.</li>
+  <li>DAX measures created for advanced business metrics:</li>
+  <ul>
+    <li>Total Revenue</li>
+    <li>Total Orders</li>
+    <li>Total Quantity</li>
+  </ul>
+</ul>
+
+
+
+
+
