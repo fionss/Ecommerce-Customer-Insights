@@ -71,4 +71,26 @@
     <li>The YoY growth is at 1.81% which isn't terrible but not good for a company at this stage in business who also has high-growth goals.</li>
   </ul>
   <li>Product and Category Performance</li>
+  <ul>
+    <li>Toys are the top perfoming product category, followed by beauty, home, books, electronics and then clothing.</li>
+    <li>With toys the top performing products were action figures and dolls, though the highest revenue for the products came from the biography and children books in the book category.</li>
+  </ul>
+  <li>Channel Performance</li>
+  <ul>
+    <li>The top performing channels are paid ads and social media, with referrals, organic and email coming close.</li>
+    <li>Paid ads in comparison to social media has a higher total revenue but a lower AOV. This shows an opporunity for optimization.</li>
+  </ul>
+  <li>Geographic Distribution</li>
+  <ul>
+    <li>Revenue is concentrated in a few major countries.</li>
+    <li>United Kingdom has the highest revenue followed by India then France.</li>
+    <li>Need more investment into United States, Canada, Nigeria and Germany to increase sales there through promotions and marketing.</li>
+    <li>Look into other emerging markets to improve reach.</li>
+  </ul>
+  <li>Customer Behaviour</li>
+  <ul>
+    <li>All the customers are first time customers, there's no return customers.</li>
+    <li>The AOV is high</li>
+    <li>Limited data coverage on customers for in depth behavioural analysis.</li>
+  </ul>
 </ol>
