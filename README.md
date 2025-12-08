@@ -63,3 +63,12 @@
 <p>Revenue has shown consistent month-over-month growth since the company launched even though it's a slight increase, it's still a positive that shows a strong need for improvement as companies in the early stage aim for at least 10% . The customer retention rate is 0, showing that there are no return customers and all the sales made were by first time customers. This shows that every single customer was lost from the time the company was launched, this shows that there may be isues with the product, overall customer serviceand there is need for immediate and drastic measures to be taken to prevent an end to the business. It shows no loyalty from the customers and a major failure in the customer journey, support, product quality or market fit </p>
 
 <h2>4. Insights</h2>
+<ol>
+  <li>Sales Trends</li>
+  <ul>
+    <li>Revenue increases steadily especially in the beginning months, then peaked in November 2024 with a total revenue of $282,258 and then remained steady in that range the end of 2025.</li>
+    <li>The AOV is stable, showing consistensy int customer spending behaviour.</li>
+    <li>The YoY growth is at 1.81% which isn't terrible but not good for a company at this stage in business who also has high-growth goals.</li>
+  </ul>
+  <li>Product and Category Performance</li>
+</ol>
