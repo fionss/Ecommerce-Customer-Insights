@@ -94,3 +94,15 @@
     <li>Limited data coverage on customers for in depth behavioural analysis.</li>
   </ul>
 </ol>
+
+<h2>5. Recommendations</h2>
+<h4>Product Strategy</h4>
+<h4>Channel Optimization </h4>
+<h4>Customer Life Cycle Strategy</h4>
+<h4>Geographic Expansion</h4>
+
+
+
+<h2>6. Assumptions</h2>
+
+
