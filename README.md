@@ -97,10 +97,22 @@
 
 <h2>5. Recommendations</h2>
 <h4>Product Strategy</h4>
+<ul>
+  <li>Invest more into higher-performing product categories.</li>
+  <li>Evaluate underperforming items for re-pricing, re-packaging or removal.</li>
+</ul>
 <h4>Channel Optimization </h4>
-<h4>Customer Life Cycle Strategy</h4>
-<h4>Geographic Expansion</h4>
+<li>Double down on high performing channels </li>
+<li>Grow mid-performing channels</li>
+<li>Fix the underperforming channel</li>
+<li>Investigate "Unknown" channel traffic</li>
 
+<h4>Customer Life Cycle Strategy</h4>
+<li>Introduce loyalty or rewards programs to improve customer retention.</li>
+<li></li>
+
+<h4>Geographic Expansion</h4>
+<li>Allocate more marketing resources to top performing countries</li>
 
 
 <h2>6. Assumptions</h2>
