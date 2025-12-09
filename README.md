@@ -36,6 +36,7 @@
 <h3>Data Model and Structure - Power BI</h3>
 <p>After data cleaning in Excel, the dataset was modeled in Power BI using a star schema for better performance and optimized analytics. This is an image of the star schema : </p>
 
+<img width="590" height="325" alt="image" src="https://github.com/user-attachments/assets/9ddbdde8-acf5-4ea2-9b43-e9c632934dfd" />
 
 
 
