@@ -62,24 +62,23 @@
 </ul>
 
 <h2>3. Executive Summary</h2>
-<p>The business generated $4.44M in total revenue across 5940 orders, with an Average Order Value of $748.10. This shows some transaction value despite being a newly launched company(established in November 2023). With YoY Growth being 1.81% and an MoM Growth at 0.01% this is considered low and shows slow expansion. This was driven by strong category and channel performance.</p>
+<p>The business generated $4.44M in total revenue across 5940 orders, with an Average Order Value of $748.10. This shows some transaction value despite being a newly launched company. With YoY Growth being 1.81% and an MoM Growth at 0.01% this is considered low and shows slow expansion.</p>
 
 <p>When it came to channel performance, Paid Ads and Social Media contributed to the largest share of revenue, followed by Referral and Organic, with Email performing slightly lower but showing potential and Unknown indicating data gaps. Geographically, the United Kingdom generated the most revenue, followed by India and France, this reflects strong engagement in international markets.</p>
 
-<p>Customer behaviour shows that while Average Revenue per Customer is $4.94K, Customer Retention is currently 0%, with all customers classified as new. This highlights a problem an urgent need to build repeat purchase strategies. High-value customers spent between $12K and $19K, contributing disproportionaltely to revenue. As for products, toys especially action figures and dolls were the strongest category, followed by beauty, home and books. </p>
+<p>Customer behaviour shows that while Average Revenue per Customer is $4.94K, Customer Retention is currently 0%, with all customers classified as new. This highlights a problem an urgent need to build repeat purchasing strategies. High-value customers spent between $12K and $19K, contributing disproportionaltely to revenue. As for products, toys especially action figures and dolls were the strongest category, followed by beauty, home and books. </p>
 
 <p>These insights shows that the business is generating a strong order value, with certain category and channel winners but must improve retention as there is no loyalty from customers and this can mean the business won't be able to survive long term.</p>
 
 <h2>4.Insights and Recommendations</h2>
 <ol>
   <li>Strengthen Retention and Build Repeat Purchasing Behaviour</li>
-  <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition so new retention strategies need to be set. They should be focused on:</p>
+  <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition of new customers so new retention strategies need to be set. They should be focused on:</p>
   <ul>
-    <li>Automated lifecycle emails: a welcome message, post-purchase follow ups, reminders, campaigns etc</li>
+    <li>Automated lifecycle emails: a welcome message, post-purchase follow ups, reminders, campaigns etc.</li>
     <li>A loyalty rewards program as an incentive for repeat orders and to increase the customer lifetime value.</li>
     <li>Personalized recommendations based on top-selling products or personal interests.</li>
   </ul>
-  <p>Impact: Increased repeat purchases, raises profits and reduces acquisition cost.</p>
 
   <li>Strategically Budget Across Marketing Channels</li>
   <p>Since Paid Ads and Social Media bring in the highest revenue, followed by Referral and Organic. The channels can be optimized by:</p>
@@ -108,10 +107,15 @@
   </ul>
 
   <li>Improve Analytics and Data Quality</li>
-  <p>Not be able to account </p>
+  <p>With having an Unknown channel revenue and already existing data quality issues, this shows that there are gaps in data. So: </p>
+  <ul>
+    <li>Implement better data standards to improve accuracy in tracking transactions and customers.</li>
+    <li>Continue using Power BI dashbpoards to monitor growth, retention and channel performance.</li>
+    <li>Introduce UTM standardization across marketing campaings.</li>
+  </ul>
 
   <li>Build A High-Value Customer Strategy</li>
-  <p>The top 10 customers spent between $12k - $18k each, this shows a small but impactful group of high-value buyers. So a few things to explore:</p>
+  <p>The top 10 customers spent between $12k - $18k each, this shows a small but impactful group of high-value buyers.Explore: </p>
   <ul>
     <li>Introduce VIP programs, exclusive discounts, early access etc.</li>
     <li>Personaliza outreach campaigns targeting these customers.</li>
@@ -121,6 +125,5 @@
 
 <h3>Strategic Outcome</h3>
 <p>Implementing these recommendations will drive revenue growth, improve marketing efficiency, strengthen customer retention and position the company for sustainable long-term success. This project provides key insights into product demand, customer behaviour, channel performance and market strength allowing the business to prioritize growth opportunies.</p>
-
 
 
