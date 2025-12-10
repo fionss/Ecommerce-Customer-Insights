@@ -27,17 +27,18 @@
 <h4>Data Cleaning and Validation</h4>
 <ul>
   <li>Removed duplicates(119 duplicates were found) especially across invoice and product records to ensure data intergrity.</li>
-  <li>Filtered for blanks and missing values.</li>
-  <li>Identified and corrected data errors, like the inconsistent product descriptions and misaligned channel names</li>
-  <li>Corrected data entry errors, like the inconsistent product and incorrect channel names.</li>
-  <li>Verified </li>
+  <li>Filtered for blanks and missing values especially within CustomerID, Country, Product and InvoiceDate fields.</li>
+  <li>Identified and fixed data errors, like inconsistent product descriptions and misaligned channel names</li>
+  <li>Corrected data entry errors, particularly where there is inconsistentcy with Product and incorrect Channel names.</li>
+  <li>Verified numeric fields, ensuring Quantity and Price contained only positive numeric values.</li>
+  <li>Created calculated fields where necessary, such as Total Price and Order Value Category.</li>
+  <li>Ensured consistent date formatting across transactional records.</li>
 </ul>
 
 <h3>Data Model and Structure - Power BI</h3>
 <p>After data cleaning in Excel, the dataset was modeled in Power BI using a star schema for better performance and optimized analytics. This is an image of the star schema : </p>
 
 <img width="590" height="325" alt="image" src="https://github.com/user-attachments/assets/9ddbdde8-acf5-4ea2-9b43-e9c632934dfd" />
-
 
 
 <h4>Data Model Features</h4>
@@ -61,59 +62,45 @@
 </ul>
 
 <h2>3. Executive Summary</h2>
-<p>Revenue has shown consistent month-over-month growth since the company launched even though it's a slight increase, it's still a positive that shows a strong need for improvement as companies in the early stage aim for at least 10% . The customer retention rate is 0, showing that there are no return customers and all the sales made were by first time customers. This shows that every single customer was lost from the time the company was launched, this shows that there may be isues with the product, overall customer serviceand there is need for immediate and drastic measures to be taken to prevent an end to the business. It shows no loyalty from the customers and a major failure in the customer journey, support, product quality or market fit </p>
+<p>The business generated $4.44M in total revenue across 5940 orders, with an Average Order Value of $748.10. This shows some transaction value despite being a newly launched company(established in November 2023). With YoY Growth being 1.81% and an MoM Growth at 0.01% this is considered low and shows slow expansion. This was driven by strong category and channel performance.</p>
 
-<h2>4. Insights</h2>
+<p>When it came to channel performance, Paid Ads and Social Media contributed to the largest share of revenue, followed by Referral and Organic, with Email performing slightly lower but showing potential and Unknown indicating data gaps. Geographically, the United Kingdom generated the most revenue, followed by India and France, this reflects strong engagement in international markets.</p>
+
+<p>Customer behaviour shows that while Average Revenue per Customer is $4.94K, Customer Retention is currently 0%, with all customers classified as new. This highlights a problem an urgent need to build repeat purchase strategies. High-value customers spent between $12K and $19K, contributing disproportionaltely to revenue. As for products, toys especially action figures and dolls were the strongest category, followed by beauty, home and books. </p>
+
+<p>These insights shows that the business is generating a strong order value, with certain category and channel winners but must improve retention as there is no loyalty from customers and this can mean the business won't be able to survive long term.</p>
+
+<h2>4. Recommendations</h2>
 <ol>
-  <li>Sales Trends</li>
+  <li>Strengthen Retention and Build Repeat Purchasing Behaviour</li>
+  <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition so new retention strategies need to be set. They should be focused on:</p>
   <ul>
-    <li>Revenue increases steadily especially in the beginning months, then peaked in November 2024 with a total revenue of $282,258 and then remained steady in that range the end of 2025.</li>
-    <li>The AOV is stable, showing consistensy int customer spending behaviour.</li>
-    <li>The YoY growth is at 1.81% which isn't terrible but not good for a company at this stage in business who also has high-growth goals.</li>
+    <li>Automated lifecycle emails: a welcome message, post-purchase follow ups, reminders, campaigns etc</li>
+    <li>A loyalty rewards program as an incentive for repeat orders and to increase the customer lifetime value.</li>
+    <li>Personalized recommendations based on top-selling products or personal interests.</li>
   </ul>
-  <li>Product and Category Performance</li>
+  <p>Impact: Increased repeat purchases, raises profits and reduces acquisition cost.</p>
+
+  <li>Strategically Budget Across Marketing Channels</li>
+  <p>Since Paid Ads and Social Media bring in the highest revenue, followed by Referral and Organic. The channels can be optimized by:</p>
   <ul>
-    <li>Toys are the top perfoming product category, followed by beauty, home, books, electronics and then clothing.</li>
-    <li>With toys the top performing products were action figures and dolls, though the highest revenue for the products came from the biography and children books in the book category.</li>
+    <li>Amplify top channels and focus on targeting market segments and optimizing creativity.</li>
+    <li>Scale referral incentives to reduce cost and grow customers. </li>
+    <li>Improve SEO and organic product discovery using content, product optimization.</li>
+    <li>Auditing and tracking the "Unknown" channel to improve data accuracy.</li>
   </ul>
-  <li>Channel Performance</li>
+
+  <li>Prioritize High Potential Markets</li>
+  <p>With the United Kingdom, India and France being the highest performing regions. This can be used to advantage by:</p>
   <ul>
-    <li>The top performing channels are paid ads and social media, with referrals, organic and email coming close.</li>
-    <li>Paid ads in comparison to social media has a higher total revenue but a lower AOV. This shows an opporunity for optimization.</li>
+    <li>Tailoring campaigns and promotions locally.</li>
+    <li>Increase ad spend and partnerships in top regions.</li>
+    <li>Conduct segmentaion on gigh order value buyer behaviour and see if it can be replicated in other regions.</li>
   </ul>
-  <li>Geographic Distribution</li>
-  <ul>
-    <li>Revenue is concentrated in a few major countries.</li>
-    <li>United Kingdom has the highest revenue followed by India then France.</li>
-    <li>Need more investment into United States, Canada, Nigeria and Germany to increase sales there through promotions and marketing.</li>
-    <li>Look into other emerging markets to improve reach.</li>
-  </ul>
-  <li>Customer Behaviour</li>
-  <ul>
-    <li>All the customers are first time customers, there's no return customers.</li>
-    <li>The AOV is high</li>
-    <li>Limited data coverage on customers for in depth behavioural analysis.</li>
-  </ul>
+  
+  <li>Capitalize on Top Performing Product Cat</li>
 </ol>
 
-<h2>5. Recommendations</h2>
-<h4>Product Strategy</h4>
-<ul>
-  <li>Invest more into higher-performing product categories.</li>
-  <li>Evaluate underperforming items for re-pricing, re-packaging or removal.</li>
-</ul>
-<h4>Channel Optimization </h4>
-<li>Double down on high performing channels </li>
-<li>Grow mid-performing channels</li>
-<li>Fix the underperforming channel</li>
-<li>Investigate "Unknown" channel traffic</li>
-
-<h4>Customer Life Cycle Strategy</h4>
-<li>Introduce loyalty or rewards programs to improve customer retention.</li>
-<li></li>
-
-<h4>Geographic Expansion</h4>
-<li>Allocate more marketing resources to top performing countries</li>
 
 
 <h2>6. Assumptions</h2>
