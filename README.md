@@ -98,8 +98,29 @@
     <li>Conduct segmentaion on gigh order value buyer behaviour and see if it can be replicated in other regions.</li>
   </ul>
   
-  <li>Capitalize on Top Performing Product Cat</li>
+  <li>Capitalize on Top Performing Product Categories</li>
+  <p>Since Toys, particularly Action Figures and Dolls are the highest revenue items, followed by Beauty, Home and Books: </p>
+  <ul>
+    <li>Increase inventory and marketing spending on these high demand categories.</li>
+    <li>Bundle high-performing items to raise AOV.</li>
+    <li>Expand product variations where demand is high i.e other types of toys, toy collections, seasonal toys.</li>
+    <li>Introduce cross-selling between products to improve cart value.</li>
+  </ul>
+
+  <li>Improve Analytics and Data Quality</li>
+  <p>Not be able to account </p>
+
+  <li>Build A High-Value Customer Strategy</li>
+  <p>The top 10 customers spent between $12k - $18k each, this shows a small but impactful group of high-value buyers. So a few things to explore:</p>
+  <ul>
+    <li>Introduce VIP programs, exclusive discounts, early access etc.</li>
+    <li>Personaliza outreach campaigns targeting these customers.</li>
+    <li>Look into behavioural patterns to identify future potential high value customers.</li>
+  </ul>
 </ol>
+
+<h4>Strategic Outcome</h4>
+
 
 
 
