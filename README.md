@@ -70,7 +70,7 @@
 
 <p>These insights shows that the business is generating a strong order value, with certain category and channel winners but must improve retention as there is no loyalty from customers and this can mean the business won't be able to survive long term.</p>
 
-<h2>4. Recommendations</h2>
+<h2>4.Insights and Recommendations</h2>
 <ol>
   <li>Strengthen Retention and Build Repeat Purchasing Behaviour</li>
   <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition so new retention strategies need to be set. They should be focused on:</p>
@@ -119,11 +119,8 @@
   </ul>
 </ol>
 
-<h4>Strategic Outcome</h4>
+<h3>Strategic Outcome</h3>
+<p>Implementing these recommendations will drive revenue growth, improve marketing efficiency, strengthen customer retention and position the company for sustainable long-term success. This project provides key insights into product demand, customer behaviour, channel performance and market strength allowing the business to prioritize growth opportunies.</p>
 
-
-
-
-<h2>6. Assumptions</h2>
 
 
