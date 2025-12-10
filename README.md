@@ -29,7 +29,7 @@
   <li>Removed duplicates(119 duplicates were found) especially across invoice and product records to ensure data intergrity.</li>
   <li>Filtered for blanks and missing values especially within CustomerID, Country, Product and InvoiceDate fields.</li>
   <li>Identified and fixed data errors, like inconsistent product descriptions and misaligned channel names</li>
-  <li>Corrected data entry errors, particularly where there is inconsistentcy with Product and incorrect Channel names.</li>
+  <li>Corrected data entry errors, particularly where there was inconsistentcy with Product and incorrect Channel names.</li>
   <li>Verified numeric fields, ensuring Quantity and Price contained only positive numeric values.</li>
   <li>Created calculated fields where necessary, such as Total Price and Order Value Category.</li>
   <li>Ensured consistent date formatting across transactional records.</li>
