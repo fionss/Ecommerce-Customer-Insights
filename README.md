@@ -72,8 +72,8 @@
 
 
 <h2>4.Insights and Recommendations</h2>
-<ol>
-  <li>Strengthen Retention and Build Repeat Purchasing Behaviour</li>
+
+  <h4>Strengthen Retention and Build Repeat Purchasing Behaviour</h4>
   <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition of new customers so new retention strategies need to be set. They should be focused on:</p>
   <ul>
     <li>Automated lifecycle emails: a welcome message, post-purchase follow ups, reminders, campaigns etc.</li>
@@ -122,7 +122,7 @@
     <li>Personaliza outreach campaigns targeting these customers.</li>
     <li>Look into behavioural patterns to identify future potential high value customers.</li>
   </ul>
-</ol>
+
 
 <h3>Strategic Outcomes</h3>
 <p>Implementing these recommendations will drive revenue growth, improve marketing efficiency, strengthen customer retention and position the company for sustainable long-term success. This project provides key insights into product demand, customer behaviour, channel performance and market strength allowing the business to prioritize growth opportunies.</p>
