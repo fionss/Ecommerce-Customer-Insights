@@ -73,7 +73,7 @@
 
 <h2>4.Insights and Recommendations</h2>
 
-  <h4>Strengthen Retention and Build Repeat Purchasing Behaviour</h4>
+  <h4>1. Strengthen Retention and Build Repeat Purchasing Behaviour</h4>
   <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition of new customers so new retention strategies need to be set. They should be focused on:</p>
   <ul>
     <li>Automated lifecycle emails: a welcome message, post-purchase follow ups, reminders, campaigns etc.</li>
@@ -81,7 +81,7 @@
     <li>Personalized recommendations based on top-selling products or personal interests.</li>
   </ul>
 
-  <li>Strategically Budget Across Marketing Channels</li>
+  <h4>2. Strategically Budget Across Marketing Channels</h4>
   <p>Since Paid Ads and Social Media bring in the highest revenue, followed by Referral and Organic. The channels can be optimized by:</p>
   <ul>
     <li>Amplify top channels and focus on targeting market segments and optimizing creativity.</li>
@@ -90,7 +90,7 @@
     <li>Auditing and tracking the "Unknown" channel to improve data accuracy.</li>
   </ul>
 
-  <li>Prioritize High Potential Markets</li>
+  <h4>3. Prioritize High Potential Markets</h4>
   <p>With the United Kingdom, India and France being the highest performing regions. This can be used to advantage by:</p>
   <ul>
     <li>Tailoring campaigns and promotions locally.</li>
@@ -98,7 +98,7 @@
     <li>Conduct segmentaion on gigh order value buyer behaviour and see if it can be replicated in other regions.</li>
   </ul>
   
-  <li>Capitalize on Top Performing Product Categories</li>
+  <h4>4. Capitalize on Top Performing Product Categories</h4>
   <p>Since Toys, particularly Action Figures and Dolls are the highest revenue items, followed by Beauty, Home and Books: </p>
   <ul>
     <li>Increase inventory and marketing spending on these high demand categories.</li>
@@ -107,7 +107,7 @@
     <li>Introduce cross-selling between products to improve cart value.</li>
   </ul>
 
-  <li>Improve Analytics and Data Quality</li>
+  <h4>5. Improve Analytics and Data Quality</h4>
   <p>With having an Unknown channel revenue and already existing data quality issues, this shows that there are gaps in data. So: </p>
   <ul>
     <li>Implement better data standards to improve accuracy in tracking transactions and customers.</li>
@@ -115,7 +115,7 @@
     <li>Introduce UTM standardization across marketing campaings.</li>
   </ul>
 
-  <li>Build A High-Value Customer Strategy</li>
+  <h4>6. Build A High-Value Customer Strategy</h4>
   <p>The top 10 customers spent between $12k - $18k each, this shows a small but impactful group of high-value buyers.Explore: </p>
   <ul>
     <li>Introduce VIP programs, exclusive discounts, early access etc.</li>
