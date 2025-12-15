@@ -133,27 +133,23 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
 <ol>
   <li><b>Limited historical data</b></li>
   <p>The company launched in November 2023, so the data set only covers a short time period.</p>
-
   <li><b>Data cleaning and missing values</b></li>
   <ul>
     <li>Missing or blank values were handled and some were categorized as "Unknown".</li>
     <li>Duplicate rows were removed based on logic.</li>
     <p>These limitation can affect the overall data and insights.</p>
   </ul>
-
   <li><b>Analytical Scope</b></li>
   <ul>
     <li>This project is focused on descriptive analytics.</li>
     <li>Predictive modelling forecasting weren't included due to data constraints.</li>
     <li>Analysis shows more past performance rather that future focused projections.</li>
   </ul>
-
   <li><b>Product and customer dimensions assumptions</b></li>
   <ul>
     <li>Product and customer dimension table was gotten from transactions data rather than master tables.</li>
     <li>Customer attributes like demographics and engagement outside of transactions weren't available.</li>
   </ul>
-
   <li><b>Revenue assumptions</b></li>
   <ul>
     <li>Total price was used in place of revenue.</li>
