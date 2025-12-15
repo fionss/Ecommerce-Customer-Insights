@@ -138,7 +138,7 @@
     <p>These limitation can affect the overall data and insights.</p>
   </ul>
 
-  <li><b>Scope</b></li>
+  <li><b>Analytical Scope</b></li>
   <ul>
     <li>This project is focused on descriptive analytics.</li>
     <li>Predictive modelling forecasting weren't included due to data constraints.</li>
