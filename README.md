@@ -123,8 +123,47 @@
     <li>Look into behavioural patterns to identify future potential high value customers.</li>
   </ul>
 
-
 <h3>Strategic Outcomes</h3>
 <p>Implementing these recommendations will drive revenue growth, improve marketing efficiency, strengthen customer retention and position the company for sustainable long-term success. This project provides key insights into product demand, customer behaviour, channel performance and market strength allowing the business to prioritize growth opportunies.</p>
 
 <h4>Limitations</h4>
+<ol>
+  <li><b>Limited historical data</b></li>
+  <p>The company launched in November 2023, so the data set only covers a short time period.</p>
+
+  <li><b>Data cleaning and missing values</b></li>
+  <ul>
+    <li>Missing or blank values were handled and some were categorized as "Unknown".</li>
+    <li>Duplicate rows were removed based on logic.</li>
+    <p>These limitation can affect the overall data and insights.</p>
+  </ul>
+
+  <li><b>Scope</b></li>
+  <ul>
+    <li>This project is focused on descriptive analytics.</li>
+    <li>Predictive modelling forecasting weren't included due to data constraints.</li>
+    <li>Analysis shows more past performance rather that future focused projections.</li>
+  </ul>
+
+  <li><b>Product and customer dimensions assumptions</b></li>
+  <ul>
+    <li>Product and customer dimension table was gotten from transactions data rather than master tables.</li>
+    <li>Customer attributes like demographics and engagement outside of transactions weren't available.</li>
+  </ul>
+
+  <li><b>Revenue assumptions</b></li>
+  <ul>
+    <li>Total price was used in place of revenue.</li>
+    <li>Cost of Goods Sold(COGS), discounts, refunds, taxes weren't available.</li>
+    <li>Profit and margin metrics weren't included in the analysis.</li>
+  </ul>
+  
+</ol>
+
+
+
+
+
+
+
+
