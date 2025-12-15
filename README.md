@@ -70,6 +70,9 @@
 
 <p>These insights shows that the business is generating a strong order value, with certain category and channel winners but must improve retention as there is no loyalty from customers and this can mean the business won't be able to survive long term.</p>
 
+Excel file: 
+Power BI file: 
+
 
 <h2>4.Insights and Recommendations</h2>
 
