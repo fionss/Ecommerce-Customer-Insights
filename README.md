@@ -11,7 +11,7 @@
   <li>Unit Price and Quantity</li>
   <li>Sales Channel</li>
   <li>Country</li>
-</ul>
+</ul> 
 
 <p>Using Excel for data cleaning and Power BI for advanced modelling and visualization, this project uncovers insights across: </p>
 <ul>
@@ -127,4 +127,4 @@
 <h3>Strategic Outcomes</h3>
 <p>Implementing these recommendations will drive revenue growth, improve marketing efficiency, strengthen customer retention and position the company for sustainable long-term success. This project provides key insights into product demand, customer behaviour, channel performance and market strength allowing the business to prioritize growth opportunies.</p>
 
-
+<h4>Limitations</h4>
