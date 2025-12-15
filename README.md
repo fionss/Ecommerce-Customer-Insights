@@ -70,7 +70,7 @@
 
 <p>These insights shows that the business is generating a strong order value, with certain category and channel winners but must improve retention as there is no loyalty from customers and this can mean the business won't be able to survive long term.</p>
 
-Excel file: 
+Excel file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E-commerce%20and%20Customer%20Insights.xlsx
 Power BI file: 
 
 
