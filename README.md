@@ -128,7 +128,7 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
     <li>Look into behavioural patterns to identify future potential high value customers.</li>
   </ul>
 
-   <img width="577" height="132" alt="Screenshot 2026-10-29 173409" src="https://github.com/user-attachments/assets/d86d2a69-cfe5-4c51-81a8-9f742d4e24fc" />
+   <img width="597" height="162" alt="Screenshot 2026-10-29 173409" src="https://github.com/user-attachments/assets/d86d2a69-cfe5-4c51-81a8-9f742d4e24fc" />
 
 <h3>Strategic Outcomes</h3>
 <p>Implementing these recommendations will drive revenue growth, improve marketing efficiency, strengthen customer retention and position the company for sustainable long-term success. This project provides key insights into product demand, customer behaviour, channel performance and market strength allowing the business to prioritize growth opportunies.</p>
