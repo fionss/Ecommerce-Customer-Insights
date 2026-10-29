@@ -93,6 +93,10 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
     <li>Auditing and tracking the "Unknown" channel to improve data accuracy.</li>
   </ul>
 
+  <img width="577" height="132" alt="Screenshot 2026-10-29 173409" src="https://github.com/user-attachments/assets/d86d2a69-cfe5-4c51-81a8-9f742d4e24fc" />
+
+<img width="314" height="92" alt="Screenshot 2026-10-29 173628" src="https://github.com/user-attachments/assets/f6b85432-5ddd-4b40-8e8c-0edd1b2d34fd" />
+
   <h4>3. Prioritize High Potential Markets</h4>
   <p>With the United Kingdom, India and France being the highest performing regions. This can be used to advantage by:</p>
   <ul>
