@@ -2,10 +2,7 @@
 <h4>Excel and Power BI End-to-End Analytics Project</h4>
 
 <h2>1. Background and Business Problem</h2>
-<p>This project analyzes the sales perfomance for a global e-commerce company that was established in November 2023. The business sells consumer products on both web and mobile applications, reaching customers across multiple countries.</p>
-
-
-<p> </p>
+<p>This project analyzes the sales perfomance for a global e-commerce company that was established in November 2023. The business sells consumer products on both web and mobile applications, reaching customers across multiple countries. This project explores:
 <ul>
   <li>Sales trends</li>
   <li>Channel performance</li>
@@ -13,7 +10,7 @@
   <li>Geograhic revenue distribution</li>
   <li>Product and category performance</li>
 </ul>
-
+</p>
 <h2>2. Data Structure and Overview</h2>
 <h3>Data Preparation - Excel</h3>
 <h4>Data Cleaning and Validation</h4>
