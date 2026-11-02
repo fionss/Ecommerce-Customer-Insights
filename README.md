@@ -10,6 +10,9 @@
   <li>Geograhic revenue distribution</li>
   <li>Product and category performance</li>
 </ul>
+
+<img width="591" height="332" alt="Screenshot 2026-11-02 164249" src="https://github.com/user-attachments/assets/cb72e81c-53b3-4cd3-9c1a-c4d7031cd01c" />
+
 </p>
 <h2>2. Data Structure and Overview</h2>
 <h3>Data Preparation - Excel</h3>
@@ -151,7 +154,6 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
   </ul> 
 </ol>
 
-<img width="591" height="332" alt="Screenshot 2026-11-02 164249" src="https://github.com/user-attachments/assets/cb72e81c-53b3-4cd3-9c1a-c4d7031cd01c" />
 
 
 
