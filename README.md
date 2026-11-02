@@ -148,9 +148,11 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
     <li>Total price was used in place of revenue.</li>
     <li>Cost of Goods Sold(COGS), discounts, refunds, taxes weren't available.</li>
     <li>Profit and margin metrics weren't included in the analysis.</li>
-  </ul>
-  
+  </ul> 
 </ol>
+
+<img width="591" height="332" alt="Screenshot 2026-11-02 164249" src="https://github.com/user-attachments/assets/cb72e81c-53b3-4cd3-9c1a-c4d7031cd01c" />
+
 
 
 
