@@ -69,7 +69,7 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
 <h2>4.Insights and Recommendations</h2>
 
   <h4>1. Strengthen Retention and Build Repeat Purchasing Behaviour</h4>
-  <p>With 0% customer retention and all customers classified as new, the business heavily relies on acquisition of new customers so new retention strategies need to be set. They should be focused on:</p>
+  <p>With low customer retention and all customers classified as new, the business heavily relies on acquisition of new customers so new retention strategies need to be set. They should be focused on:</p>
   <ul>
     <li>Automated lifecycle emails: a welcome message, post-purchase follow ups, reminders, campaigns etc.</li>
     <li>A loyalty rewards program as an incentive for repeat orders and to increase the customer lifetime value.</li>
