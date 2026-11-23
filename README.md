@@ -77,7 +77,7 @@ Power BI file: https://github.com/fionss/Ecommerce-Customer-Insights/blob/main/E
   </ul>
 
   <h4>2. Strategically Budget Across Marketing Channels</h4>
-  <p>Since Paid Ads and Social Media bring in the highest revenue, followed by Referral and Organic. The channels can be optimized by:</p>
+  <p>Since Paid Ads and Social Media bring in the highest revenue, then Referral and Organic. We can optimize the channels:</p>
   <ul>
     <li>Amplify top channels and focus on targeting market segments and optimizing creativity.</li>
     <li>Scale referral incentives to reduce cost and grow customers. </li>
